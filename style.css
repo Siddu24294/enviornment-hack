@@ -1,0 +1,12 @@
+body {
+    background-color: white;
+}
+p,h2,span{
+    color:limegreen;
+}
+.carousel-item active
+/*
+h2 span{
+    color:white;
+}
+*/
